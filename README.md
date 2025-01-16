@@ -1,4 +1,4 @@
-# octocat
+# About me
 👋 Hi there! I'm a passionate QA Engineer with 3+ years of experience in ensuring the quality of web and mobile applications. My expertise spans across functional testing, non-functional testing, and automation frameworks.
 
 💻 Tech Stack:
