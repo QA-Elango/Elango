@@ -7,14 +7,8 @@ Programming Languages: Java, JavaScript
 Testing Types: API Testing, Load Testing, Performance Testing
 Frameworks & Tools: Maven, TestNG, POM Design, JMeter
 🚀 What I Do:
-Develop robust automation scripts for web and mobile apps (iOS & Android).
-Create and validate test plans, test cases, and reports.
 Design and maintain frameworks for UI and API testing.
 Identify and log bugs to enhance product reliability and usability.
-📌 Key Projects:
-Enhanced test coverage for leaderboard and feedback modules using Rest Assured.
-Revamped automation scripts for quiz and test modules, focusing on POM structure.
-Load-tested APIs for high-performance systems using JMeter.
 🌱 Currently Exploring:
 Advanced API testing strategies and iOS automation.
 🌟 Fun Fact:
