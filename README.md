@@ -1,4 +1,9 @@
 # 👋 Hi, I'm Elango!
-- 🔍 I'm a QA Automation Engineer with expertise in UI and API testing.
-- 🛠️ Skilled in developing automation tools and frameworks.
-- 🌱 Currently working on exciting projects and learning new technologies.
+💻 Tech Stack:
+- Automation Tools: Selenium, Appium, Rest Assured.
+- Programming Languages: Java, JavaScript.
+- Testing Types: API Testing, Load Testing, Performance Testing.
+- Frameworks & Tools: Maven, TestNG, POM Design, JMeter.
+-  Develop robust automation scripts for web and mobile apps (iOS & Android).
+
+
